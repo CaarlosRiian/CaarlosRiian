@@ -5,6 +5,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1>Olá todos, Eu sou Rian Lima ✌️</h1>
 <ul>
-<li>💻 Graduando em Análise e Desenvolvimento de Sistemas IFRN [1/7] </li>
+<li>💻 Graduando em Análise e Desenvolvimento de Sistemas IFRN [2/7] </li>
 </ul>
 
