@@ -8,6 +8,6 @@ You can click the Preview link to take a look at your changes.
 <li>💻 Graduando em Análise e Desenvolvimento de Sistemas IFRN [2/7] </li>
 </ul>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width = '30' />
 
 
