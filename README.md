@@ -8,6 +8,8 @@ You can click the Preview link to take a look at your changes.
 <li>💻 Graduando em Análise e Desenvolvimento de Sistemas IFRN [2/7] </li>
 </ul>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width = '45' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width = '45' /> <!-- HTML 5 -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = '45' /> <!-- CSS 3 -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width = '45' /> <!-- C++ -->
 
 
