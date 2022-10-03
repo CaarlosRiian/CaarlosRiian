@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 </div>
   
   <!-- Part of the icons -->
-<div>
+<div align = "center">
   <img align = "center" alt ="HTML" width = '45' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <!-- HTML 5 Icon -->
   <img align = "center" alt = "CSS" width = '45' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <!-- CSS 3 Icon -->
   <img align = "center" alt = "C++" width = '45' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> <!-- C++ Icon -->
